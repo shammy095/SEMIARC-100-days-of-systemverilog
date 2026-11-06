@@ -1,0 +1,7 @@
+# run 1000ns
+time=0|s_bar=0|r_bar=1|q=1|q_bar=0
+time=10000|s_bar=1|r_bar=1|q=1|q_bar=0
+time=20000|s_bar=1|r_bar=0|q=0|q_bar=1
+time=30000|s_bar=1|r_bar=1|q=0|q_bar=1
+time=40000|s_bar=0|r_bar=0|q=1|q_bar=1
+$finish called at time : 50 ns : File
