@@ -1,0 +1,10 @@
+# run 1000ns
+time=0|j=0|k=1|q=x|q_bar=x
+time=5000|j=0|k=1|q=0|q_bar=1
+time=10000|j=1|k=1|q=0|q_bar=1
+time=15000|j=1|k=1|q=1|q_bar=0
+time=20000|j=1|k=0|q=1|q_bar=0
+time=30000|j=1|k=1|q=1|q_bar=0
+time=35000|j=1|k=1|q=0|q_bar=1
+time=40000|j=0|k=0|q=0|q_bar=1
+$finish called at time : 50 ns :
