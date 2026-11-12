@@ -1,0 +1,8 @@
+# run 1000ns
+time=0|rst=1|d=0|q=x|q_bar=x
+time=5000|rst=1|d=0|q=0|q_bar=1
+time=10000|rst=0|d=0|q=0|q_bar=1
+time=20000|rst=0|d=1|q=0|q_bar=1
+time=25000|rst=0|d=1|q=1|q_bar=0
+time=30000|rst=0|d=0|q=1|q_bar=0
+time=35000|rst=0|d=0|q=0|q_bar=1
