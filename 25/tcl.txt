@@ -1,0 +1,22 @@
+# run 1000ns
+time=0|rst=0|count=0000
+time=10000|rst=1|count=0000
+time=15000|rst=1|count=0001
+time=25000|rst=1|count=0010
+time=35000|rst=1|count=0011
+time=45000|rst=1|count=0100
+time=55000|rst=1|count=0101
+time=65000|rst=1|count=0110
+time=75000|rst=1|count=0111
+time=85000|rst=1|count=1000
+time=95000|rst=1|count=1001
+time=105000|rst=1|count=1010
+time=115000|rst=1|count=1011
+time=125000|rst=1|count=1100
+time=135000|rst=1|count=1101
+time=145000|rst=1|count=1110
+time=155000|rst=1|count=1111
+time=165000|rst=1|count=0000
+time=175000|rst=1|count=0001
+time=185000|rst=1|count=0010
+$finish called at time : 190 ns :
