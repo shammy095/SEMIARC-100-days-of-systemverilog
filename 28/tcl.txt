@@ -1,0 +1,7 @@
+# run 1000ns
+time=0|rst=0|serial_in=x|serial_out=0
+time=10000|rst=1|serial_in=1|serial_out=0
+time=30000|rst=1|serial_in=0|serial_out=0
+time=40000|rst=1|serial_in=1|serial_out=0
+time=45000|rst=1|serial_in=1|serial_out=1
+time=50000|rst=1|serial_in=0|serial_out=1
