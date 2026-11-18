@@ -1,0 +1,9 @@
+# run 1000ns
+time=0|rst=0|load=x|parallel_in=xxxx|serial_out=0
+time=10000|rst=1|load=1|parallel_in=1010|serial_out=0
+time=20000|rst=1|load=0|parallel_in=1010|serial_out=0
+time=25000|rst=1|load=0|parallel_in=1010|serial_out=1
+time=35000|rst=1|load=0|parallel_in=1010|serial_out=0
+time=45000|rst=1|load=0|parallel_in=1010|serial_out=1
+time=55000|rst=1|load=0|parallel_in=1010|serial_out=0
+$finish called at time :
