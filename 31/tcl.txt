@@ -1,0 +1,11 @@
+# run 1000ns
+time=0,rst=0,parallel_in=xxxx,parallel_out=0000
+time=10000,rst=1,parallel_in=1010,parallel_out=0000
+time=15000,rst=1,parallel_in=1010,parallel_out=1010
+time=20000,rst=1,parallel_in=1011,parallel_out=1010
+time=25000,rst=1,parallel_in=1011,parallel_out=1011
+time=30000,rst=1,parallel_in=1110,parallel_out=1011
+time=35000,rst=1,parallel_in=1110,parallel_out=1110
+time=50000,rst=1,parallel_in=1111,parallel_out=1110
+time=55000,rst=1,parallel_in=1111,parallel_out=1111
+$finish called at time : 60 ns :
