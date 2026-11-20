@@ -1,0 +1,16 @@
+# run 1000ns
+time=0|rst=0|load=x|data=xxxx|ring_count=0000
+time=10000|rst=1|load=1|data=1010|ring_count=0000
+time=15000|rst=1|load=1|data=1010|ring_count=1010
+time=20000|rst=1|load=0|data=1010|ring_count=1010
+time=25000|rst=1|load=0|data=1010|ring_count=0101
+time=35000|rst=1|load=0|data=1010|ring_count=1010
+time=45000|rst=1|load=0|data=1010|ring_count=0101
+time=55000|rst=1|load=0|data=1010|ring_count=1010
+time=65000|rst=1|load=0|data=1010|ring_count=0101
+time=75000|rst=1|load=0|data=1010|ring_count=1010
+time=85000|rst=1|load=0|data=1010|ring_count=0101
+time=95000|rst=1|load=0|data=1010|ring_count=1010
+time=105000|rst=1|load=0|data=1010|ring_count=0101
+time=115000|rst=1|load=0|data=1010|ring_count=1010
+$finish called at time : 120 ns
