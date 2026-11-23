@@ -1,0 +1,15 @@
+# }
+# run 1000ns
+time=0,rst=0,din=x,dout=0
+time=10000,rst=1,din=0,dout=0
+time=20000,rst=1,din=1,dout=0
+time=30000,rst=1,din=0,dout=0
+time=40000,rst=1,din=1,dout=0
+time=55000,rst=1,din=1,dout=1
+time=60000,rst=1,din=0,dout=1
+time=65000,rst=1,din=0,dout=0
+time=80000,rst=1,din=1,dout=0
+time=90000,rst=1,din=0,dout=0
+time=100000,rst=1,din=1,dout=0
+time=115000,rst=1,din=1,dout=1
+$finish called at time : 120 ns 
