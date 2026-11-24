@@ -1,0 +1,10 @@
+ run 1000ns
+time=0,rst=0,bin=x,dout=0
+time=10000,rst=1,bin=1,dout=0
+time=20000,rst=1,bin=0,dout=0
+time=30000,rst=1,bin=1,dout=0
+time=35000,rst=1,bin=1,dout=1
+time=45000,rst=1,bin=1,dout=0
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'mealy_1011_tb_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): c
