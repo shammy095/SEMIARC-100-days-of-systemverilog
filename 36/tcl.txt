@@ -1,0 +1,9 @@
+# run 1000ns
+time=0 rst=0 ar=0 ay=0 ag=1 br=1 by=0 bg=0
+time=10000 rst=1 ar=0 ay=0 ag=1 br=1 by=0 bg=0
+time=15000 rst=1 ar=0 ay=1 ag=0 br=1 by=0 bg=0
+time=25000 rst=1 ar=1 ay=0 ag=0 br=0 by=0 bg=1
+time=35000 rst=1 ar=1 ay=0 ag=0 br=0 by=1 bg=0
+time=45000 rst=1 ar=0 ay=0 ag=1 br=1 by=0 bg=0
+time=55000 rst=1 ar=0 ay=1 ag=0 br=1 by=0 bg=0
+$finish called at time : 60 ns :
