@@ -1,0 +1,9 @@
+# run 1000ns
+time=0 rst=0 din=x dout=0
+time=10000 rst=1 din=1 dout=0
+time=25000 rst=1 din=1 dout=1
+time=30000 rst=1 din=0 dout=1
+time=35000 rst=1 din=0 dout=0
+time=50000 rst=1 din=1 dout=0
+time=65000 rst=1 din=1 dout=1
+$finish called at time : 70 ns :
